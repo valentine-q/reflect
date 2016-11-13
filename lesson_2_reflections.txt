@@ -20,3 +20,11 @@ If you want to have one commit per logical change you can add to the
 staging area only the files that are related to this change and then
 commit the changes. The staging area contains only the changes that
 you are going to commit.
+
+What are some situations when branches would be helpful in keeping 
+your history organized? How would branches help?
+Branches could be helpful when you want to create another version of
+your programm, or you want to experiment and to add some experimental
+features. The branches help you to commit changes to each version
+independently. So you can work on you main version and add changes
+that are not related to other versions. 
