@@ -42,3 +42,10 @@ We can track all the commits that were made in these branches using a git log
 command. They will be sorted by a timestamp. You represent it in the 
 diagram in this way because it helps to understand the result of merging
 both branches.
+
+What are the pros and cons of Git’s automatic merging vs. 
+always doing merges manually?
+When Git is able to merge commits automatically it saves you from doing
+it manually and it saves you time. However you have no control over
+this process. So when you merge manually you can choose what change
+should be included in the commit.
