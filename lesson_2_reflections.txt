@@ -28,3 +28,8 @@ your programm, or you want to experiment and to add some experimental
 features. The branches help you to commit changes to each version
 independently. So you can work on you main version and add changes
 that are not related to other versions. 
+
+How do the diagrams help you visualize the branch structure?
+The diagrams show all the branches that exist so you can see what are
+the nodes where new branches were created. It helps you to track the commits
+and to understand the reachibility of particular commits.
