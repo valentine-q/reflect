@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initizialize a repository, Git creates a hidden directory where
+the metadata of the tracked files are stored. I need to do it on order
+Git can track the changes of my files and knows where to store
+the information about it.
