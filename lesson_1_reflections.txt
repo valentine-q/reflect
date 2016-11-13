@@ -40,8 +40,11 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    Because I know that I can revert changes anytime I am more encouraged to
+    experiment. I can try out new things, new ideas and it just gives me
+    a lot more opportunities and makes be a better programmer because it allows
+    me to learn, it allows me to make mistakes that I can fix.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    I want to learn how I can save my commits.
