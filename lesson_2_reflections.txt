@@ -33,3 +33,12 @@ How do the diagrams help you visualize the branch structure?
 The diagrams show all the branches that exist so you can see what are
 the nodes where new branches were created. It helps you to track the commits
 and to understand the reachibility of particular commits.
+
+What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
+When we merge two branches the changes that were made in these two branches
+are being combined in one branch. This is the branch that we checked out.
+We can track all the commits that were made in these branches using a git log
+command. They will be sorted by a timestamp. You represent it in the 
+diagram in this way because it helps to understand the result of merging
+both branches.
